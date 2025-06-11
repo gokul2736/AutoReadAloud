@@ -5,26 +5,27 @@ bot that automatically reads selected text and feeds it as mic input for LMS Rea
 # WORK IN PROGRESS
 ## might finish by nxt sem mid
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-
+.   
+.     
+.   
+.     
+.   
+.   
+.   
+.     
+.     
+.  
+.     
+.   
+.    
+.     
+.     
+.     
+.     
+.   
+.   
+.     
+.    
 
 
 # 🔊 AutoReadAloud
